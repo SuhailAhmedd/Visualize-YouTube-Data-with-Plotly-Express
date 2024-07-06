@@ -1,5 +1,3 @@
-# Visualize-YouTube-Data-with-Plotly-Express
-
 # Visualize YouTube Data with Plotly Express
 
 <AuthorAvatar
