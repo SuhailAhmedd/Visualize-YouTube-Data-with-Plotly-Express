@@ -10,7 +10,6 @@
 
 **Prerequisites:** Python fundamentals, Microsoft Excel  
 **Versions:** Python 3.10, Plotly 5.9  
-**Read Time:** 45 minutes
 
 ## Introduction
 
